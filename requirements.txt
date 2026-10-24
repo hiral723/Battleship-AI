@@ -1,0 +1,3 @@
+pygame>=2.5.0
+# Optional - only needed for: python benchmark.py --chart
+# matplotlib>=3.7
